@@ -1,0 +1,14 @@
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/bin/Debug/netstandard2.0/MoveCompass.deps.json
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/bin/Debug/netstandard2.0/MoveCompass.dll
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/bin/Debug/netstandard2.0/ref/MoveCompass.dll
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/bin/Debug/netstandard2.0/MoveCompass.pdb
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/MoveCompass.csprojAssemblyReference.cache
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/MoveCompass.AssemblyInfoInputs.cache
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/MoveCompass.AssemblyInfo.cs
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/MoveCompass.csproj.CoreCompileInputs.cache
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/MoveCompass.dll
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/ref/MoveCompass.dll
+/Users/dongbeenjeon/Projects/MoveCompass/MoveCompass/obj/Debug/netstandard2.0/MoveCompass.pdb
