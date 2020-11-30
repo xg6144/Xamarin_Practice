@@ -1,0 +1,115 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dongbeenjeon/Projects/MapApp/MapApp.Android/MapApp.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/dongbeenjeon/Projects/MapApp/MapApp.Android/MapApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dongbeenjeon/Projects/MapApp/MapApp.Android/MapApp.Android.csproj",
+        "projectName": "MapApp.Android",
+        "projectPath": "/Users/dongbeenjeon/Projects/MapApp/MapApp.Android/MapApp.Android.csproj",
+        "packagesPath": "/Users/dongbeenjeon/.nuget/packages/",
+        "outputPath": "/Users/dongbeenjeon/Projects/MapApp/MapApp.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/dongbeenjeon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/dongbeenjeon/Projects/MapApp/MapApp/MapApp.csproj": {
+                "projectPath": "/Users/dongbeenjeon/Projects/MapApp/MapApp/MapApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1687, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/dongbeenjeon/Projects/MapApp/MapApp/MapApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dongbeenjeon/Projects/MapApp/MapApp/MapApp.csproj",
+        "projectName": "MapApp",
+        "projectPath": "/Users/dongbeenjeon/Projects/MapApp/MapApp/MapApp.csproj",
+        "packagesPath": "/Users/dongbeenjeon/.nuget/packages/",
+        "outputPath": "/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dongbeenjeon/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1687, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

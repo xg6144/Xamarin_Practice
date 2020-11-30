@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{60B0CA78-63CD-40E8-A2C8-B32C5C32FA74}|Default">
+  <MonoDevelop.Ide.ItemProperties.MoveBall.Android PreferredExecutionTarget="Android.2924147e30047ece" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoveBall/MainPage.xaml.cs">
+    <Files>
+      <File FileName="MoveBall/MainPage.xaml.cs" Line="120" Column="61" />
+      <File FileName="MoveBall/MainPage.xaml" Line="5" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoveBall" expanded="True">
+            <Node name="MoveBall" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MoveBall.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

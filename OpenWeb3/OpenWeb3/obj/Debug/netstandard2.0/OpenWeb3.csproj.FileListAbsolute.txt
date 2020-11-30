@@ -1,0 +1,14 @@
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/bin/Debug/netstandard2.0/OpenWeb3.deps.json
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/bin/Debug/netstandard2.0/OpenWeb3.dll
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/bin/Debug/netstandard2.0/ref/OpenWeb3.dll
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/bin/Debug/netstandard2.0/OpenWeb3.pdb
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/OpenWeb3.csprojAssemblyReference.cache
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/OpenWeb3.AssemblyInfoInputs.cache
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/OpenWeb3.AssemblyInfo.cs
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/OpenWeb3.csproj.CoreCompileInputs.cache
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/OpenWeb3.dll
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/ref/OpenWeb3.dll
+/Users/dongbeenjeon/Projects/OpenWeb3/OpenWeb3/obj/Debug/netstandard2.0/OpenWeb3.pdb

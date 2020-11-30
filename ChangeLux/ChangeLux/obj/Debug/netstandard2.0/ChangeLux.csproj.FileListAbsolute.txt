@@ -1,0 +1,14 @@
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/ChangeLux.csprojAssemblyReference.cache
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/ChangeLux.AssemblyInfoInputs.cache
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/ChangeLux.AssemblyInfo.cs
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/ChangeLux.csproj.CoreCompileInputs.cache
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/ChangeLux.dll
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/ref/ChangeLux.dll
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/ChangeLux.pdb
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/bin/Debug/netstandard2.0/ChangeLux.deps.json
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/bin/Debug/netstandard2.0/ChangeLux.dll
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/bin/Debug/netstandard2.0/ref/ChangeLux.dll
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/bin/Debug/netstandard2.0/ChangeLux.pdb
+/Users/dongbeenjeon/Projects/ChangeLux/ChangeLux/obj/Debug/netstandard2.0/XamlC.stamp

@@ -1,0 +1,14 @@
+/Users/dongbeenjeon/Projects/Light1/Light1/bin/Debug/netstandard2.0/Light1.deps.json
+/Users/dongbeenjeon/Projects/Light1/Light1/bin/Debug/netstandard2.0/Light1.dll
+/Users/dongbeenjeon/Projects/Light1/Light1/bin/Debug/netstandard2.0/ref/Light1.dll
+/Users/dongbeenjeon/Projects/Light1/Light1/bin/Debug/netstandard2.0/Light1.pdb
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/Light1.csprojAssemblyReference.cache
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/Light1.AssemblyInfoInputs.cache
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/Light1.AssemblyInfo.cs
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/Light1.csproj.CoreCompileInputs.cache
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/Light1.dll
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/ref/Light1.dll
+/Users/dongbeenjeon/Projects/Light1/Light1/obj/Debug/netstandard2.0/Light1.pdb

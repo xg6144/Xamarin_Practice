@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{600095DD-D0CC-472B-BAF2-D315CC8FBCA6}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.ItemProperties.OpenWeb3.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.2924147e30047ece" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OpenWeb3/MainPage.xaml.cs">
+    <Files>
+      <File FileName="OpenWeb3/MainPage.xaml" Line="16" Column="72" />
+      <File FileName="OpenWeb3/MainPage.xaml.cs" Line="93" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OpenWeb3" expanded="True">
+            <Node name="OpenWeb3" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OpenWeb3.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

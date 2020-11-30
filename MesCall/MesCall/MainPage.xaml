@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MesCall.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Call,Msg,Vib" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Entry Placeholder="Phone Number" x:Name="Num" Keyboard="Telephone"/>
+        <Button Text="Call"
+                Clicked="Button_Clicked"
+                x:Name="btnCall"/>
+
+        <Entry x:Name="Msg" Placeholder="Messge"/>
+        <Button Text="Send"
+                Clicked="Button1_Clicked"/>
+
+        <Entry x:Name="Vib" MaxLength="5" Placeholder="MaxLength 5"/>
+        <Button Text="Vibrate" Clicked="Button2_Clicked"/>
+
+    </StackLayout>
+
+</ContentPage>

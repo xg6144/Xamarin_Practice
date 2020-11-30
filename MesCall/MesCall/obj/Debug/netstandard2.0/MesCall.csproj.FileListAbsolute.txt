@@ -1,0 +1,14 @@
+/Users/dongbeenjeon/Projects/MesCall/MesCall/bin/Debug/netstandard2.0/MesCall.deps.json
+/Users/dongbeenjeon/Projects/MesCall/MesCall/bin/Debug/netstandard2.0/MesCall.dll
+/Users/dongbeenjeon/Projects/MesCall/MesCall/bin/Debug/netstandard2.0/ref/MesCall.dll
+/Users/dongbeenjeon/Projects/MesCall/MesCall/bin/Debug/netstandard2.0/MesCall.pdb
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/MesCall.csprojAssemblyReference.cache
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/MesCall.AssemblyInfoInputs.cache
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/MesCall.AssemblyInfo.cs
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/MesCall.csproj.CoreCompileInputs.cache
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/MesCall.dll
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/ref/MesCall.dll
+/Users/dongbeenjeon/Projects/MesCall/MesCall/obj/Debug/netstandard2.0/MesCall.pdb

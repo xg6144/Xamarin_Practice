@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CF6CCF85-DEA4-4A44-B465-D4DA7C726CFF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChangeLux.Android/MainActivity.cs">
+    <Files>
+      <File FileName="ChangeLux/MainPage.xaml.cs" Line="20" Column="79" />
+      <File FileName="ChangeLux/MainPage.xaml" />
+      <File FileName="ChangeLux/ITransLabelService.cs" />
+      <File FileName="ChangeLux.Android/MainActivity.cs" Line="93" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChangeLux" expanded="True">
+            <Node name="ChangeLux" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="ChangeLux.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChangeLux.Android PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+</Properties>

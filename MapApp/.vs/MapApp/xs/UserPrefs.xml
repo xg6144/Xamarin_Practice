@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C704BA09-5D07-4F0C-9A13-88797C380244}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MapApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="MapApp/MainPage.xaml.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MapApp" expanded="True">
+            <Node name="MapApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="MapApp.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MapApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MapApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_3a_xl_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dongbeenjeon/.nuget/packages/xamarin.forms/4.8.0.1451/buildTransitive/Xamarin.Forms.targets" line="232" column="1" />
+      <Breakpoint file="/Users/dongbeenjeon/.nuget/packages/xamarin.forms/4.8.0.1451/buildTransitive/Xamarin.Forms.targets" line="239" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

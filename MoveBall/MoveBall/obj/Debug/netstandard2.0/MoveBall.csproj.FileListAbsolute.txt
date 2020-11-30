@@ -1,0 +1,14 @@
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/bin/Debug/netstandard2.0/MoveBall.deps.json
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/bin/Debug/netstandard2.0/MoveBall.dll
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/bin/Debug/netstandard2.0/ref/MoveBall.dll
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/bin/Debug/netstandard2.0/MoveBall.pdb
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/MoveBall.csprojAssemblyReference.cache
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/MoveBall.AssemblyInfoInputs.cache
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/MoveBall.AssemblyInfo.cs
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/MoveBall.csproj.CoreCompileInputs.cache
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/MoveBall.dll
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/ref/MoveBall.dll
+/Users/dongbeenjeon/Projects/MoveBall/MoveBall/obj/Debug/netstandard2.0/MoveBall.pdb

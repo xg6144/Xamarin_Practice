@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{AD2D964E-5FD8-4E55-9684-FCE94020119E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoveCompass/MainPage.xaml.cs">
+    <Files>
+      <File FileName="MoveCompass/MainPage.xaml" Line="8" Column="34" />
+      <File FileName="MoveCompass/MainPage.xaml.cs" Line="32" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoveCompass" expanded="True">
+            <Node name="MoveCompass" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MoveCompass.Android PreferredExecutionTarget="Android.2924147e30047ece" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

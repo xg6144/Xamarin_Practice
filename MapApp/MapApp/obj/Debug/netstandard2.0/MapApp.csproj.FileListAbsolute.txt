@@ -1,0 +1,14 @@
+/Users/dongbeenjeon/Projects/MapApp/MapApp/bin/Debug/netstandard2.0/MapApp.deps.json
+/Users/dongbeenjeon/Projects/MapApp/MapApp/bin/Debug/netstandard2.0/MapApp.dll
+/Users/dongbeenjeon/Projects/MapApp/MapApp/bin/Debug/netstandard2.0/ref/MapApp.dll
+/Users/dongbeenjeon/Projects/MapApp/MapApp/bin/Debug/netstandard2.0/MapApp.pdb
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/MapApp.csprojAssemblyReference.cache
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/MapApp.AssemblyInfoInputs.cache
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/MapApp.AssemblyInfo.cs
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/MapApp.csproj.CoreCompileInputs.cache
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/MapApp.dll
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/ref/MapApp.dll
+/Users/dongbeenjeon/Projects/MapApp/MapApp/obj/Debug/netstandard2.0/MapApp.pdb

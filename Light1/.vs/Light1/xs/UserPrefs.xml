@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{ADFD1461-6E0F-4C5A-99D8-B834B587E304}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Light1/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Light1.Android/MainActivity.cs" Line="40" Column="24" />
+      <File FileName="Light1/MainPage.xaml" />
+      <File FileName="Light1/ITransLabelService.cs" />
+      <File FileName="Light1/MainPage.xaml.cs" Line="28" Column="36" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Light1" expanded="True">
+            <Node name="Light1" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Light1.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Light1.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_3a_xl_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
